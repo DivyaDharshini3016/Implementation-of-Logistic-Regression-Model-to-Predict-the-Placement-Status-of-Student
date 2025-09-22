@@ -67,8 +67,22 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+<img width="909" height="198" alt="Screenshot 2025-09-22 110545" src="https://github.com/user-attachments/assets/5af4ec0f-222b-421b-ab41-420485b7d443" />
 
-<img width="560" height="175" alt="Screenshot 2025-09-22 090523" src="https://github.com/user-attachments/assets/98568a09-a459-483e-bc40-bccec0795de7" />
+<img width="817" height="397" alt="Screenshot 2025-09-22 110614" src="https://github.com/user-attachments/assets/42a97f4b-fed9-4b71-b4b8-fb263750a62f" />
+
+<img width="815" height="404" alt="Screenshot 2025-09-22 110703" src="https://github.com/user-attachments/assets/6dda0522-37f1-4d88-838a-c1768ab2e7f7" />
+
+<img width="765" height="410" alt="Screenshot 2025-09-22 110726" src="https://github.com/user-attachments/assets/9934831a-c77b-426a-a917-50c9b708f4b6" />
+
+<img width="400" height="210" alt="Screenshot 2025-09-22 110756" src="https://github.com/user-attachments/assets/b39dad3a-1ea7-4b1f-82c0-2180cc504fd7" />
+
+<img width="558" height="50" alt="Screenshot 2025-09-22 110845" src="https://github.com/user-attachments/assets/1999f534-dfef-4636-8036-7832ce4307d5" />
+
+<img width="464" height="148" alt="Screenshot 2025-09-22 110914" src="https://github.com/user-attachments/assets/02f066fd-5b0d-4259-af35-3dd0100bb519" />
+
+<img width="110" height="30" alt="Screenshot 2025-09-22 110919" src="https://github.com/user-attachments/assets/e1fb7083-6c96-4e8c-ad96-eb84c75c3a91" />
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
